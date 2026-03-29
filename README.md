@@ -34,7 +34,6 @@ Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco a
 
 - 👨‍💻 Experiência anterior como **Desenvolvedor Web**
 - 🏢 Atualmente atuando como **Associate Data Engineer**
-- 📈 **1 ano de estágio + 1 ano CLT**, na mesma empresa
 - 🤖 Participando de iniciativas e projetos envolvendo **IA**
 - 🧱 Experiência com soluções de dados, automações, integrações e cloud engineering
 
@@ -84,15 +83,10 @@ Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco a
 - Integração e transformação de dados
 - Automação de processos
 - Soluções com Azure e Microsoft Fabric
-- APIs e backend
+- APIs
 - Containers e orquestração
 - IA aplicada ao ambiente corporativo
-
----
-
-## 📜 Certificações
-
-- 🏅 **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- Power BI e Report Builder
 
 ---
 
@@ -109,23 +103,6 @@ Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiguelHBO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelHBO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MiguelHBO&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌎 Conecte-se comigo
 
 <p>
@@ -136,15 +113,6 @@ Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco a
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 💡 Atualmente
-
-- 🚀 Trabalhando com **Data Engineering, Cloud e Automação**
-- 🤖 Explorando e aplicando **Inteligência Artificial**
-- ☁️ Desenvolvendo soluções com **Azure + Fabric + Python**
-- 🧩 Participando de projetos com **AKS e arquitetura moderna**
 
 ---
 
