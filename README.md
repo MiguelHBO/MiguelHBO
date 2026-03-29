@@ -98,10 +98,14 @@ My background combines a **solid foundation in web development** with a current 
 
 - 🔹 **Data Engineering Pipeline with Azure / Fabric**
 - 🔹 **Azure Function App with Python**
-- 🔹 **Automation Project with Logic Apps**
+- 🔹 **Automation Project with Data Factory, Fabric Pipelines and Logic Apps**
 - 🔹 **Containerization with Docker**
-- 🔹 **Architecture and Deployment with AKS**
+- 🔹 **KPIs with Power BI**
+- 🔹 **Reports with Report Builder**
+- 🔹 **Deployment with AKS**
 - 🔹 **Data and Applied AI Projects**
+- 🔹 **Experience working on real production C# API and DLL projects with DevOps pipelines**
+- 🔹 **E-Commerce WebSite Back and Front-End with C# Asp.net**
 
 ---
 
