@@ -41,7 +41,7 @@ Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco a
 
 ## 🛠️ Stack & Tecnologias
 
-### ☁️ Cloud, Data & Infra
+### ☁️ Cloud & Data
 
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
