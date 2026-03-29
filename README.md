@@ -1,26 +1,27 @@
-<h1 align="center">Olá 👋, eu sou Miguel Henrique</h1>
+<h1 align="center">Hi 👋, I'm Miguel Henrique</h1>
 
 <h3 align="center">
 Associate Data Engineer | Azure | Microsoft Fabric | Python | SQL | AI
 </h3>
 
 <p align="center">
-Construindo soluções entre dados, cloud, automação e inteligência artificial.
+Building solutions across data, cloud, automation, and artificial intelligence.
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou um profissional de tecnologia com experiência em **Engenharia de Dados, Cloud e Desenvolvimento**, atualmente atuando como **Associate Data Engineer**.
+I’m a technology professional with experience in **Data Engineering, Cloud, and Software Development**, currently working as an **Associate Data Engineer**.
 
-Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco atual em **dados, automação, infraestrutura em nuvem e IA aplicada ao negócio**.
+My background combines a **solid foundation in web development** with a current focus on **data, automation, cloud infrastructure, and AI-driven business solutions**.
 
-### Atualmente trabalho com:
+### Currently working with:
 - ☁️ **Azure**
 - 🧠 **Microsoft Fabric**
+- 📊 **Power BI and Report Builder**
 - 🐍 **Python**
-- 🗄️ **SQL avançado**
+- 🗄️ **Advanced SQL**
 - ⚙️ **Azure Data Factory**
 - 🔁 **Logic Apps**
 - 🧩 **Azure Functions**
@@ -30,22 +31,23 @@ Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco a
 
 ---
 
-## 💼 Minha jornada
+## 💼 My Journey
 
-- 👨‍💻 Experiência anterior como **Desenvolvedor Web**
-- 🏢 Atualmente atuando como **Associate Data Engineer**
-- 🤖 Participando de iniciativas e projetos envolvendo **IA**
-- 🧱 Experiência com soluções de dados, automações, integrações e cloud engineering
+- 👨‍💻 Previous experience as a **Web Developer**
+- 🏢 Currently working as an **Associate Data Engineer**
+- 🤖 Involved in initiatives and projects related to **AI**
+- 🧱 Experience building data solutions, automations, integrations, and cloud engineering workflows
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## 🛠️ Stack & Technologies
 
 ### ☁️ Cloud & Data
 
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Logic%20Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
@@ -54,7 +56,7 @@ Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco a
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### 👨‍💻 Linguagens & Backend
+### 👨‍💻 Languages & Backend
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -76,46 +78,46 @@ Tenho uma trajetória que une **base sólida em desenvolvimento web** com foco a
 
 ---
 
-## 🎯 Áreas em que atuo
+## 🎯 Areas I Work In
 
-- Engenharia de Dados
+- Data Engineering
 - ETL / ELT
-- Integração e transformação de dados
-- Automação de processos
-- Soluções com Azure e Microsoft Fabric
+- Data integration and transformation
+- Process automation
+- Azure and Microsoft Fabric solutions
 - APIs
-- Containers e orquestração
-- IA aplicada ao ambiente corporativo
-- Power BI e Report Builder
+- Containers and orchestration
+- AI applied to enterprise environments
+- Power BI and Report Builder
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
-> Alguns tipos de projeto que representam bem meu momento profissional:
+> Some project types that best represent my current professional focus:
 
-- 🔹 **Pipeline de Engenharia de Dados com Azure / Fabric**
-- 🔹 **Azure Function App com Python**
-- 🔹 **Projeto de automação com Logic Apps**
-- 🔹 **Containerização com Docker**
-- 🔹 **Arquitetura e deploy com AKS**
-- 🔹 **Projetos de dados e IA aplicada**
+- 🔹 **Data Engineering Pipeline with Azure / Fabric**
+- 🔹 **Azure Function App with Python**
+- 🔹 **Automation Project with Logic Apps**
+- 🔹 **Containerization with Docker**
+- 🔹 **Architecture and Deployment with AKS**
+- 🔹 **Data and Applied AI Projects**
 
 ---
 
-## 🌎 Conecte-se comigo
+## 🌎 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/miguel-henrique-175892211/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MiguelHBO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building real solutions with data, cloud and AI."</i>
+  <i>"Building real solutions with data, cloud, and AI."</i>
 </p>
