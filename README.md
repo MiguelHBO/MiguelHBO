@@ -28,6 +28,10 @@ My background combines a **solid foundation in web development** with a current 
 - 🐳 **Docker**
 - ☸️ **AKS**
 - 🔨 **Azure DevOps**
+- 🌬️ **Apache Airflow**
+- 📨 **Apache Kafka**
+- ⚡ **Apache Spark**
+- 🧱 **Databricks**
 
 ---
 
@@ -54,6 +58,10 @@ My background combines a **solid foundation in web development** with a current 
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ### 👨‍💻 Languages & Backend
@@ -89,6 +97,9 @@ My background combines a **solid foundation in web development** with a current 
 - Containers and orchestration
 - AI applied to enterprise environments
 - Power BI and Report Builder
+- Big Data processing (Spark, Databricks)
+- Data pipelines and orchestration (Airflow)
+- Real-time streaming (Kafka)
 
 ---
 
