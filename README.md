@@ -38,7 +38,7 @@ My background combines a **solid foundation in web development** with a current 
 ## 💼 My Journey
 
 - 👨‍💻 Previous experience as a **Web Developer**
-- 🏢 Currently working as an **Associate Data Engineer**
+- 🏢 Currently working as an **Data Engineer**
 - 🤖 Involved in initiatives and projects related to **AI**
 - 🧱 Experience building data solutions, automations, integrations, and cloud engineering workflows
 
