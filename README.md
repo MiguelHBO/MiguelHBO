@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Henrique</h1>
 
 <h3 align="center">
-Data Engineer | Azure | Microsoft Fabric | Python | SQL | AI
+Data Engineer | Azure | Python | Spark | Databricks | SQL | Apache | AI
 </h3>
 
 <p align="center">
